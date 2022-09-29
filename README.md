@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warss7878" alt="warss7878" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://discord.gg/ꭺꭰꭼꮇ#4185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ꭺꭰꭼꮇ#4185" height="30" width="40" /></a>
+
 <p align="left">
 </p>
 
